@@ -38,4 +38,4 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 - Grant, E., Benedetti, M., Cao, S., Hallam, A., Lockhart, J., Stojevic, V., ... & Severini, S. (2018). Hierarchical quantum classifiers. [npj Quantum Information, 4(1), 65](https://www.nature.com/articles/s41534-018-0116-9).
 - Richa Agarwal; Oliver Diaz; Xavier Lladó; Moi Hoon Yap; Robert Martí. [Automatic mass detection in mammograms using deep convolutional neural networks](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-6/issue-3/031409/Automatic-mass-detection-in-mammograms-using-deep-convolutional-neural-networks/10.1117/1.JMI.6.3.031409.full?SSO=1).
 - [tutorial] Qiskit
-- [opcional] Multilayer perceptron
+- [opcional] [Multilayer perceptron](semana02/Tutorial_MLP/Tutorial_MLP.ipynb)
